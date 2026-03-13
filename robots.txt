@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /auth/
-Disallow: /api/
-Disallow: /uploads/
-Disallow: /config/
-
-Sitemap: https://onlineconvert.co/sitemap.xml
